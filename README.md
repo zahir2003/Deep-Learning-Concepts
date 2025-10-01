@@ -60,7 +60,7 @@
 
 - **Comprehensive:** Covers a wide range of deep learning topics, from fundamentals to advanced applications.
 - **Practical:** Real-world datasets and end-to-end pipelines.
-- **Recruiter-Friendly:** Demonstrates hands-on skills, best practices, and a passion for AI/ML.
+- **User-Friendly:** Demonstrates hands-on skills, best practices, and a passion for AI/ML.
 - **Beautifully Organized:** Easy to navigate, with clear project separation and documentation.
 
 ---
@@ -76,5 +76,6 @@
 
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/sk-mahiduzzaman)
 - **Mail Id:** [Mail Id](mailto:mohiduz03@gmail.com)
+
 
 
